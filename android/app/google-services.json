@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "181096632616",
+    "firebase_url": "https://raportdigital-a195e-default-rtdb.firebaseio.com",
+    "project_id": "raportdigital-a195e",
+    "storage_bucket": "raportdigital-a195e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181096632616:android:5257f05acea481485e001d",
+        "android_client_info": {
+          "package_name": "com.example.raport_digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_8AnVGmqaryolMDrdT1mND6kt3s6inE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
